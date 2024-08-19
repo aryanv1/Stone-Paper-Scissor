@@ -1,2 +1,2 @@
 # Stone-Paper-Scissor
- Stonr Paper Scissor Game made using HTML, CSS and JavaScript
+ Stone Paper Scissor Game made using HTML, CSS and JavaScript
